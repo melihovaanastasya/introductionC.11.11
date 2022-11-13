@@ -1,4 +1,4 @@
-﻿// Написать программу вычисления значения функции y = sin(a). (Класс Math).
+﻿// 6. Написать программу вычисления значения функции y = sin(a). (Класс Math).
 
 double a=Convert.ToDouble(Console.ReadLine());
 double y=Math.Sin(a);
